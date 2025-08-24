@@ -1,6 +1,8 @@
-es una implementación sencilla en JavaScript del juego Amigo Secreto, donde los usuarios pueden agregar nombres, ver la lista y sortear un amigo al azar.
+🎁 Desafío del Amigo Secreto – Allura
 
-📖 Descripción
+Este proyecto es una implementación sencilla en JavaScript del juego Amigo Secreto, donde los usuarios pueden agregar nombres, ver la lista y sortear un amigo al azar.
+
+📖 Descripción:
 
 La aplicación permite:
 
