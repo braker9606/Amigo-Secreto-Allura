@@ -12,13 +12,7 @@ Sortear un nombre aleatorio y mostrarlo.
 
 No requiere servidor ni base de datos, funciona 100% en el navegador con HTML, CSS y JavaScript puro.
 
-🚀 Instalación y uso
-
-Clona este repositorio:
-
-git clone https://github.com/usuario/amigo-secreto-allura.git
-cd amigo-secreto-allura
-
+🚀 Uso:
 
 Abre el archivo index.html en tu navegador.
 No necesitas instalar nada adicional.
