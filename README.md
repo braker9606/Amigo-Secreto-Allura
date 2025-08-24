@@ -1,2 +1,32 @@
-# Amigo-Secreto-Allura
-El Desafío Amigo Secreto es un paso importante para el éxito en el programa ONE. A través de la práctica y el perfeccionamiento de la lógica de programación, podrás consolidar tus conocimientos, dominar el pensamiento lógico, mejorar tus habilidades de análisis y resolución de problemas, y ampliar tu perspectiva en el mundo del desarrollo.
+es una implementación sencilla en JavaScript del juego Amigo Secreto, donde los usuarios pueden agregar nombres, ver la lista y sortear un amigo al azar.
+
+📖 Descripción
+
+La aplicación permite:
+
+Agregar amigos a una lista dinámica.
+
+Visualizar los nombres en pantalla.
+
+Sortear un nombre aleatorio y mostrarlo.
+
+No requiere servidor ni base de datos, funciona 100% en el navegador con HTML, CSS y JavaScript puro.
+
+🚀 Instalación y uso
+
+Clona este repositorio:
+
+git clone https://github.com/usuario/amigo-secreto-allura.git
+cd amigo-secreto-allura
+
+
+Abre el archivo index.html en tu navegador.
+No necesitas instalar nada adicional.
+
+Usa la aplicación:
+
+Escribe un nombre en el campo de texto y presiona Agregar.
+
+Repite para todos los amigos.
+
+Haz clic en Sortear amigo para elegir un nombre al azar.
